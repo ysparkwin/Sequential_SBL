@@ -28,7 +28,7 @@ Version 1.0: (03/29/2021 by Y. Park)
 # Contact
 
 [Yongsung Park](https://scholar.google.com/citations?user=jcMeNjMAAAAJ&hl=en&oi=ao), [Florian Meyer](https://scholar.google.com/citations?user=XnMK9VcAAAAJ&hl=en&oi=ao), & [Peter Gerstoft](https://scholar.google.com/citations?user=oLMfDnYAAAAJ&hl=en)  
-AOPE/WHOI
+AOPE/WHOI  
 MPL/SIO/UCSD  
 yongsung.park@whoi.edu  
 flmeyer@ucsd.edu  
